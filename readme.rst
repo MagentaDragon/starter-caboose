@@ -1,3 +1,7 @@
+DERRICK LOCQUIAO (DL) VITHUSHAN KANAGESWARAN (VK)
+
+Conventions: Before Midterm Style
+
 ###################################
 Tutorial 5 Starter Webapp - Caboose
 ###################################
